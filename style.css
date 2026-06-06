@@ -6,7 +6,7 @@ margin: 0;
 a, a:visited{color: aqua;}}
 a:hover{color: aqua;}
 header{
-    padding: 15px;
+    padding: 0px;
     text-align: center;}
     nav ul{
         list-style: none;
@@ -18,11 +18,11 @@ header{
         margin: 0 15px;
     }
     main{
-        padding: 20px;
+        padding: 5px;
         text-align: center;
     }
     p{
-       padding: 20px;
+       padding: 5px;
        text-align: center;  
     }
    @media screen and (max-width: 768px){
